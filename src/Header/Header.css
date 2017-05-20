@@ -1,0 +1,19 @@
+
+#myNav{
+    margin-bottom: 0px;
+    background-color: silver;
+    height: 100px;
+}
+#myNav a{
+    font-size: 20px;
+    color: white;
+    
+           
+}
+.nav-bar li{
+    display:inline;
+    padding:15px;
+    margin:20px;
+    line-height: 20vh;
+}
+.nav-bar a {color: #ECE5CE !important;}
