@@ -26,7 +26,7 @@ class Dashboard extends React.Component{
     }    
     render(){
         console.log("RENDER METHOD", this.state.posts);
-
+        var 
         return (
             <div>
                 <h1>Dashboard | userId: {this.props.match.params.user_id}</h1>
@@ -35,4 +35,4 @@ class Dashboard extends React.Component{
     }
 }
 
-export default Dashboard;
+export default Dashboard; //this is a test/
